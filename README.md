@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Just another repository.
+This branch is different from main.
